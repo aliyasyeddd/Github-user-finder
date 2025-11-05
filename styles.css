@@ -4,9 +4,6 @@ body {
   background-color: #eef1ff;
   background-image: radial-gradient(#98a8ff 1px, transparent 1px);
   background-size: 30px 30px; /* dotted pattern */
-  display: flex;
-  justify-content: center;
-  align-items: center;
   font-family: "Inter", system-ui, sans-serif;
 }
 
